@@ -1,4 +1,4 @@
-package com.task10;
+package Opps;
 
 public class TeaMain {
 	  public static void main(String[] args) {

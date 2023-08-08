@@ -1,4 +1,4 @@
-package com.task10;
+package Opps;
 
 //Q1
 class Person {

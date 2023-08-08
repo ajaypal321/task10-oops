@@ -1,4 +1,4 @@
-package com.task10;
+package Opps;
 public class Employee {
     private int id;
     private String name;
